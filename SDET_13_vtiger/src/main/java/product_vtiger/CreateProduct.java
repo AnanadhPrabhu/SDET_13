@@ -8,6 +8,7 @@ public class CreateProduct {
 		System.out.println("product");
 		System.out.println("anandh");
 		System.out.println("anandhprabhu");
+		System.out.println("dae anandh");
 	}
 
 }
