@@ -7,6 +7,7 @@ public class CreateProduct {
 	public static void product() {
 		System.out.println("product");
 		System.out.println("anandh");
+		System.out.println("anandhprabhu");
 	}
 
 }
