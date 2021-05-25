@@ -6,6 +6,7 @@ public class CreateProduct {
 	@Test
 	public static void product() {
 		System.out.println("product");
+		System.out.println("anandh");
 	}
 
 }
